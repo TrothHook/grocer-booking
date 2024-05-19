@@ -1,1 +1,1 @@
-# grocer-booking
+# grocery-booking
